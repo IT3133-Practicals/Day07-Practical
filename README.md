@@ -67,6 +67,7 @@ Once you run the project, you'll see the following:
 
 ## Example Screenshot 📸
 
+![Output](https://github.com/user-attachments/assets/66e1bc9a-972c-416c-99eb-1306f11dca1e)
 
 
 ## Conclusion 📝
