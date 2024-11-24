@@ -1,5 +1,10 @@
-export default function Child() {
+export default function Child(props) {
     return(
-        <div></div>
+        <div>
+            <h3>Hello React I'm Child</h3>
+            {
+                props.setfun("My Name is Bob")
+            }
+        </div>
     )
 }
