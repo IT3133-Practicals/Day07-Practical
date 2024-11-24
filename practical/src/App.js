@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <h2>Hello React I'm Parent</h2>
       <Child setfun={receiveName} />
-      <p>Parent:My child said:{childname}</p>
+      <p>Parent: My child said: {childname}</p>
     </div>
   );
 }
